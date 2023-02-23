@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/aniket-batabyal/](https://www.linkedin.com/in/aniket-batabyal-801460134/)"><img alt="LinkedIn" src="https://img.shields.io/badge/-Aniket%20Batabyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-batabyal/"></a>
-  <a href="[https://aniketbatabyal.medium.com/](https://medium.com/@aniketbatabyal)"><img alt="Medium" src="https://img.shields.io/badge/-Aniket%20Batabyal-black?style=flat-square&logo=Medium&logoColor=white&link=https://aniketbatabyal.medium.com/"></a>
-  <a href="[https://github.com/aniketbatabyal](https://github.com/anarchymonkey)"><img alt="GitHub" src="https://img.shields.io/badge/-Aniket%20Batabyal-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/aniketbatabyal"></a>
+  <a href="https://www.linkedin.com/in/aniket-batabyal-801460134/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Aniket%20Batabyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-batabyal/"></a>
+  <a href="https://medium.com/@aniketbatabyal"><img alt="Medium" src="https://img.shields.io/badge/-Aniket%20Batabyal-black?style=flat-square&logo=Medium&logoColor=white&link=https://aniketbatabyal.medium.com/"></a>
+  <a href="https://github.com/anarchymonkey"><img alt="GitHub" src="https://img.shields.io/badge/-Aniket%20Batabyal-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/aniketbatabyal"></a>
 </p>
 
 <p align="justify">I'm a software engineer with full stack development experience of 4 years. I have a passion for writing clean, efficient, and maintainable code. I enjoy keeping up to date with the latest technologies and I love reading and writing about tech.</p>
